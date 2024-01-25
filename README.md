@@ -14,6 +14,7 @@
  1. [Assignment 1](Assignment_1.pdf)  
 
 ### Lecture code 
+1.  [Lecture_1_code](lec1.ipynb)
 
 
 
